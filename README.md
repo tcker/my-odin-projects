@@ -17,7 +17,6 @@ not yet finished 🔗 [my-odin-recipe](https://tcker.github.io/odin-recipes.gith
 ---
 
 ## my-odin-simpleLandingPage:
-- Not responsive (bruh github doesn't recognize media-queries)
 
 [odin-sample-landingPage](https://tcker.github.io/odin-sample-landingPage.io/)
 
