@@ -12,8 +12,14 @@ The Odin Project is a comprehensive open-source curriculum for learning full-sta
 
 not yet finished 🔗 [my-odin-recipe](https://tcker.github.io/odin-recipes.github-io/)
 
-</div>
+
 
 ---
 
+## my-odin-simpleLandingPage:
 
+[odin-sample-landingPage](https://tcker.github.io/odin-sample-landingPage.io/)
+
+---
+
+</div>
