@@ -17,9 +17,8 @@ not yet finished 🔗 [my-odin-recipe](https://tcker.github.io/odin-recipes.gith
 ---
 
 ## my-odin-simpleLandingPage:
-change the fucking repo
 
-[odin-sample-landingPage]()
+[odin-simple-landingPage](https://tcker.github.io/odin-simple-landing-page.io/)
 
 ---
 
