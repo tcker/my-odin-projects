@@ -1,4 +1,7 @@
+
+
 ## Hello curious viewer 👋
+<div align="center">
 <pre align="center">
 
 ████████╗██╗  ██╗███████╗     ██████╗ ██████╗ ██╗███╗   ██╗      ██████╗ ██████╗  ██████╗      ██╗███████╗ ██████╗████████╗
@@ -23,7 +26,7 @@
 # What is this about?
 - The Odin Project is a comprehensive open-source curriculum for learning full-stack web development. This repository serves as a showcase of my progress and skills acquired through the various projects and exercises provided by the curriculum.
 
-
+</div>
 
 ---
 
